@@ -1,0 +1,15 @@
+{
+  "name": "webpack-cli-scripts",
+  "version": "1.0.0",
+  "description": "A collection of webpack-cli scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "./opencollective.sh"
+  },
+  "bin": {
+    "webpack-cli-donate": "./opencollective.sh"
+  },
+  "keywords": ["webpack", "cli", "bash", "scripts"],
+  "author": "Even Stensberg<evenstensberg@gmail.com>",
+  "license": "MIT"
+}
