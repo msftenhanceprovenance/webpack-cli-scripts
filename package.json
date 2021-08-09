@@ -6,6 +6,10 @@
   "scripts": {
     "test": "./opencollective.sh"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evenstensberg/webpack-cli-scripts.git"
+  },
   "bin": {
     "webpack-cli-donate": "./scripts/opencollective.sh"
   },
